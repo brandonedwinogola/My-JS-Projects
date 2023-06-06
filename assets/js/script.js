@@ -69,13 +69,14 @@ fetch('./assets/js/projects.json')
 
 // text animation
 var _CONTENT = [
-    "Build a JavaScript Calculator.",
-    "Build a JavaScript Todo List.",
+    "Build a JavaScript Calculator...",
+    "Build a JavaScript Todo List...",
     "Build a JavaScript Age Calculator.",
     "Build a JavaScript Clock.",
     "Build a JavaScript Issue Tracker.",
     "Build a Password Generator.",
     "Build a JavaScript Weather API.",
+    "Build any JavaScript Project.",
     "So Let's Get Started!"
 ];
 

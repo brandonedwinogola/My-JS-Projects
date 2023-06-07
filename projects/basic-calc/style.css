@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(to right, #8e2de2, #4a00e0);
+  background: linear-gradient(to right, #69bae9, #4a00e0);
   overflow: hidden;
 }
 .container {
@@ -67,7 +67,7 @@ input[type="button"] {
 }
 input[type="button"]:hover {
   transition: 0.5s;
-  background: linear-gradient(#b8df0b, #18e65d);
+  background: linear-gradient(#b8df0b, #9c03aa);
 }
 input#clear {
   background: #e20404;
